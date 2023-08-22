@@ -1,0 +1,10 @@
+[package]
+name = "near_non_fungible_token_with_clone"
+version = "1.0.0"
+edition = "2021"
+categories = ["wasm"]
+
+
+[dependencies]
+near-sdk = "4.0.0-pre.4"
+near-contract-standards = "4.0.0-pre.4"
